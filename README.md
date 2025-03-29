@@ -1,6 +1,6 @@
 
 <h1>
-    <div style="font-size:14px">Hi there 👋</div>
+    <div style="font-size:14px">Hello there 👋</div>
         <span>Me chamo Samuel Silva.<span>
              <img align="center" src="Wall-e.jpg" alt="Wall-e" width="70px" style="margin-left: 20px; border-radius: 50%;">
 </h1>

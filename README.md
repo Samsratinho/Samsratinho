@@ -1,17 +1,19 @@
+
 <h1>
     <div style="font-size:14px">Hi there 👋</div>
-    <div>
         <span>Me chamo Samuel Silva.<span>
-        <img align="center" src="" alt="Wall-e" width="60px" style="margin-left: 20px;">
-    </div>
+             <img align="center" src="Wall-e.jpg" alt="Wall-e" width="70px" style="margin-left: 20px; border-radius: 50%;">
 </h1>
+
           
 **Sobre mim**  
 
-<img align="right" src="gifs/7her4ja.gif" width="350px">
+<img align="right" src="transferir.gif" width="400px">
 
 
 <p align="left">
+Sou apaixonado por tecnologia e gosto de tudo que envolve programação. Estou sempre em busca de aprender algo novo e de me desafiar. Gosto de explorar tanto o Front-End quanto o Back-End e acredito que programar é uma maneira incrível de transformar ideias em soluções práticas.
+    
 Atualmente, estou no quinto período do Bacharelado em Ciências e Tecnologia na UFRN e sou Assessor de Projetos Voluntário na Empresa Júnior da Escola de Ciências e Tecnologia (EJECT), sendo responsável pela realização de projetos voltados ao Front-End. Nessa função, sou alocado à execução dos projetos, assegurando o comprimento dos requisitos dos clientes.
 </p>
 

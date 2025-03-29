@@ -25,8 +25,8 @@ Atualmente, estou no quinto período do Bacharelado em Ciências e Tecnologia na
 
 ## ⚙️ &nbsp;GitHub Stats
 <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samsratinho&theme=maroongold&show_icons=true&width=400&height=auto" width="45%">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samsratinho&layout=compact&bg_color=260000&border_color=FFF&title_color=ECE383&text_color=C59135&width=400&height=auto" width="40%">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samsratinho&theme=blue-green&show_icons=true&width=400&height=auto" width="45%">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samsratinho&layout=compact&theme=blue-green" width="40%">
 </div>
 
 ## 📫 Contacts  
